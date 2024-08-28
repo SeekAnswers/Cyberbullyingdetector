@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+xgboost
+streamlit
+flask
+docx2txt
+PyPDF2
